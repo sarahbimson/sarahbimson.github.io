@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #FFF5E1;
+}
+
+
+header {
+	color: black !important;
+	background-color: lavender !important;
+	}
+
+
+
+
+.cream-header {
+    background: linear-gradient(to right, #FF0000, #FF9900, #FFFF00, #33CC33, #3399FF, #6633FF, #9900CC); 
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
